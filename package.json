@@ -1,0 +1,24 @@
+{
+  "name": "first-app",
+  "version": "1.0.0",
+  "description": "My first app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "demon": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cherio": "^1.0.0-rc.2",
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
