@@ -15,7 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "cherio": "^1.0.0-rc.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "request": "^2.88.2"
   },
   "devDependencies": {
